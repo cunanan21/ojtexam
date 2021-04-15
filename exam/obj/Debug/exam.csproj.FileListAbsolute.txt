@@ -1,0 +1,13 @@
+C:\Users\ryuu\source\repos\exam\exam\bin\Debug\exam.exe.config
+C:\Users\ryuu\source\repos\exam\exam\bin\Debug\exam.exe
+C:\Users\ryuu\source\repos\exam\exam\bin\Debug\exam.pdb
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.Form1.resources
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.exe
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.pdb
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.Form2.resources
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.Form3.resources
+C:\Users\ryuu\source\repos\exam\exam\obj\Debug\exam.Form4.resources
